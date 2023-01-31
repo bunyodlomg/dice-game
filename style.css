@@ -255,7 +255,5 @@ a:hover {
   .btn--roll, .btn--hold{
     margin-top: 15%;
   }
-  .dice{
-    /* transform: translate(-50%, -20%); */
-  }
+
 }
