@@ -189,7 +189,13 @@ a {
 a:hover {
   color: #222;
 }
-
+.bunny{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  font-size: 3rem;
+  transform: translate(-50px);
+}
 @media (max-width: 743px) {
   main {
     flex-direction: column;
