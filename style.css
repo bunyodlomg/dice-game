@@ -259,6 +259,9 @@ a:hover {
 }
 
 @media (max-width: 372px) {
+  .btn{
+    padding: 0.5rem 1rem;
+  }
   .btn--roll {
     left: 50%;
   }
@@ -273,4 +276,10 @@ a:hover {
     justify-content: center;
   }
 
+  main {
+  }
+
+  .player {
+    padding: 0 1rem;
+  }
 }
